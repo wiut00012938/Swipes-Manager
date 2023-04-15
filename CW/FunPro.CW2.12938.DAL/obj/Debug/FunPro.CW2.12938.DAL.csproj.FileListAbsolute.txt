@@ -1,0 +1,12 @@
+C:\Users\User\OneDrive\Документы\Education\FunPro\second semester\FunPro.CW2.12938.DAL\obj\Debug\FunPro.CW2.12938.DAL.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\second semester\FunPro.CW2.12938.DAL\obj\Debug\FunPro.CW2.12938.DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\CW\FunPro.CW2.12938.DAL\bin\Debug\FunPro.CW2.12938.DAL.dll
+C:\Users\User\OneDrive\Документы\Education\FunPro\CW\FunPro.CW2.12938.DAL\bin\Debug\FunPro.CW2.12938.DAL.pdb
+C:\Users\User\OneDrive\Документы\Education\FunPro\CW\FunPro.CW2.12938.DAL\bin\Debug\System.Data.SQLite.dll
+C:\Users\User\OneDrive\Документы\Education\FunPro\CW\FunPro.CW2.12938.DAL\bin\Debug\System.Data.SQLite.xml
+C:\Users\User\OneDrive\Документы\Education\FunPro\CW\FunPro.CW2.12938.DAL\obj\Debug\FunPro.CW2.12938.DAL.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\CW\FunPro.CW2.12938.DAL\obj\Debug\FunPro.CW2.12938.DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\CW\FunPro.CW2.12938.DAL\obj\Debug\FunPro.CW2.12938.DAL.csproj.CopyComplete
+C:\Users\User\OneDrive\Документы\Education\FunPro\CW\FunPro.CW2.12938.DAL\obj\Debug\FunPro.CW2.12938.DAL.dll
+C:\Users\User\OneDrive\Документы\Education\FunPro\CW\FunPro.CW2.12938.DAL\obj\Debug\FunPro.CW2.12938.DAL.pdb
+C:\Users\User\OneDrive\Документы\Education\FunPro\CW\FunPro.CW2.12938.DAL\bin\Debug\FunPro.CW2.12938.DAL.dll.config

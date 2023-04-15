@@ -1,0 +1,33 @@
+C:\Users\User\OneDrive\Документы\Education\FunPro\second semester\FunPro.CW2.12938\bin\Debug\FunPro.CW2.12938.exe.config
+C:\Users\User\OneDrive\Документы\Education\FunPro\second semester\FunPro.CW2.12938\bin\Debug\FunPro.CW2.12938.exe
+C:\Users\User\OneDrive\Документы\Education\FunPro\second semester\FunPro.CW2.12938\bin\Debug\FunPro.CW2.12938.pdb
+C:\Users\User\OneDrive\Документы\Education\FunPro\second semester\FunPro.CW2.12938\obj\Debug\FunPro.CW2.12938.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\second semester\FunPro.CW2.12938\obj\Debug\FunPro.CW2.12938.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\second semester\FunPro.CW2.12938\obj\Debug\FunPro.CW2._12938.Form1.resources
+C:\Users\User\OneDrive\Документы\Education\FunPro\second semester\FunPro.CW2.12938\obj\Debug\FunPro.CW2._12938.Properties.Resources.resources
+C:\Users\User\OneDrive\Документы\Education\FunPro\second semester\FunPro.CW2.12938\obj\Debug\FunPro.CW2.12938.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\second semester\FunPro.CW2.12938\obj\Debug\FunPro.CW2.12938.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\second semester\FunPro.CW2.12938\obj\Debug\FunPro.CW2.12938.exe
+C:\Users\User\OneDrive\Документы\Education\FunPro\second semester\FunPro.CW2.12938\obj\Debug\FunPro.CW2.12938.pdb
+C:\Users\User\OneDrive\Документы\Education\FunPro\CW\FunPro.CW2.12938\bin\Debug\12938.db
+C:\Users\User\OneDrive\Документы\Education\FunPro\CW\FunPro.CW2.12938\bin\Debug\FunPro.CW2.12938.exe.config
+C:\Users\User\OneDrive\Документы\Education\FunPro\CW\FunPro.CW2.12938\bin\Debug\FunPro.CW2.12938.exe
+C:\Users\User\OneDrive\Документы\Education\FunPro\CW\FunPro.CW2.12938\bin\Debug\FunPro.CW2.12938.pdb
+C:\Users\User\OneDrive\Документы\Education\FunPro\CW\FunPro.CW2.12938\bin\Debug\FunPro.CW2.12938.DAL.dll
+C:\Users\User\OneDrive\Документы\Education\FunPro\CW\FunPro.CW2.12938\bin\Debug\FunPro.CW2.12938.DAL.pdb
+C:\Users\User\OneDrive\Документы\Education\FunPro\CW\FunPro.CW2.12938\bin\Debug\System.Data.SQLite.xml
+C:\Users\User\OneDrive\Документы\Education\FunPro\CW\FunPro.CW2.12938\obj\Debug\FunPro.CW2.12938.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\CW\FunPro.CW2.12938\obj\Debug\FunPro.CW2.12938.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\CW\FunPro.CW2.12938\obj\Debug\FunPro.CW2._12938.Properties.Resources.resources
+C:\Users\User\OneDrive\Документы\Education\FunPro\CW\FunPro.CW2.12938\obj\Debug\FunPro.CW2.12938.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\CW\FunPro.CW2.12938\obj\Debug\FunPro.CW2.12938.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\CW\FunPro.CW2.12938\obj\Debug\FunPro.CW2.12938.csproj.CopyComplete
+C:\Users\User\OneDrive\Документы\Education\FunPro\CW\FunPro.CW2.12938\obj\Debug\FunPro.CW2.12938.exe
+C:\Users\User\OneDrive\Документы\Education\FunPro\CW\FunPro.CW2.12938\obj\Debug\FunPro.CW2.12938.pdb
+C:\Users\User\OneDrive\Документы\Education\FunPro\CW\FunPro.CW2.12938\obj\Debug\FunPro.CW2._12938.ParentForm.resources
+C:\Users\User\OneDrive\Документы\Education\FunPro\CW\FunPro.CW2.12938\obj\Debug\FunPro.CW2._12938.all_employees.resources
+C:\Users\User\OneDrive\Документы\Education\FunPro\CW\FunPro.CW2.12938\bin\Debug\FunPro.CW2.12938.DAL.dll.config
+C:\Users\User\OneDrive\Документы\Education\FunPro\CW\FunPro.CW2.12938\obj\Debug\FunPro.CW2._12938.all_swipes_form.resources
+C:\Users\User\OneDrive\Документы\Education\FunPro\CW\FunPro.CW2.12938\obj\Debug\FunPro.CW2._12938.EmployeeEditForm.resources
+C:\Users\User\OneDrive\Документы\Education\FunPro\CW\FunPro.CW2.12938\obj\Debug\FunPro.CW2._12938.SwipesAddForm.resources
+C:\Users\User\OneDrive\Документы\Education\FunPro\CW\FunPro.CW2.12938\obj\Debug\FunPro.CW2._12938.EmployeeReportForm.resources
